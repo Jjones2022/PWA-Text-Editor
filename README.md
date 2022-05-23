@@ -5,6 +5,10 @@ Progressive web apps are created with multiple technologies that gives developme
 This was a challenge to build a text editor and implement methods of retrieving and storing data in the IndexedDB API. This type of application is widely used in large companies like 
 Google and Mozilla.
 
+## Technologies
+Visual Studio Code
+Heroku
+Git Bash or Powershell
 
 
 
