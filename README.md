@@ -6,9 +6,9 @@ This was a challenge to build a text editor and implement methods of retrieving 
 Google and Mozilla.
 
 ## Technologies
-Visual Studio Code
-Heroku
-Git Bash or Powershell
+* Visual Studio Code
+* Heroku
+
 
 
 
